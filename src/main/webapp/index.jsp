@@ -9,12 +9,6 @@
     <br>
     <input type="submit" >
 
-    <% for (int i) {
-
-
-    }
-    >
-
     <br>
 </form>
 </body>

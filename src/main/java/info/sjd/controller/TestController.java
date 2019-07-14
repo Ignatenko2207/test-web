@@ -28,6 +28,8 @@ public class TestController extends HttpServlet {
         } else{
             RequestDispatcher dispatcher = req.getRequestDispatcher("/jsp/good.jsp");
             dispatcher.forward(req, resp);
+
+
         }
 
 
